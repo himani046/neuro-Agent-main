@@ -1,0 +1,6 @@
+{
+  "name": "neuro Agent",
+  "description": "Autonomous clinical documentation and reconciliation engine converting consultation dialogue, EHR baselines, and timestamped labs into auditable SOAP records and safety-flagged conflict matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
